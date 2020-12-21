@@ -1,0 +1,16 @@
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Models\bin\Debug\SearchEngines.Models.dll
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Models\bin\Debug\SearchEngines.Models.pdb
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.csproj.CoreCompileInputs.cache
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.dll
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.pdb
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Models\bin\Debug\SearchEngines.Models.dll
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Models\bin\Debug\SearchEngines.Models.pdb
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.csprojAssemblyReference.cache
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.csproj.CoreCompileInputs.cache
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.dll
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.pdb
+D:\Training\Brando\SearchEngines.All\SearchEngines.Models\bin\Debug\SearchEngines.Models.dll
+D:\Training\Brando\SearchEngines.All\SearchEngines.Models\bin\Debug\SearchEngines.Models.pdb
+D:\Training\Brando\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.csproj.CoreCompileInputs.cache
+D:\Training\Brando\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.dll
+D:\Training\Brando\SearchEngines.All\SearchEngines.Models\obj\Debug\SearchEngines.Models.pdb

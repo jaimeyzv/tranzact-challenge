@@ -1,0 +1,27 @@
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Interface.dll
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Interface.pdb
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Models.dll
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Models.pdb
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.csprojAssemblyReference.cache
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.csproj.CoreCompileInputs.cache
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.csproj.CopyComplete
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.dll
+D:\Cignium\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.pdb
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Interface.dll
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Interface.pdb
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Models.dll
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Models.pdb
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.csprojAssemblyReference.cache
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.csproj.CoreCompileInputs.cache
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.csproj.CopyComplete
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.dll
+D:\Training\Search Fight\Searchfight\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.pdb
+D:\Training\Brando\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Interface.dll
+D:\Training\Brando\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Interface.pdb
+D:\Training\Brando\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Models.dll
+D:\Training\Brando\SearchEngines.All\SearchEngines.Interface\bin\Debug\SearchEngines.Models.pdb
+D:\Training\Brando\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.csprojAssemblyReference.cache
+D:\Training\Brando\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.csproj.CoreCompileInputs.cache
+D:\Training\Brando\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.csproj.CopyComplete
+D:\Training\Brando\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.dll
+D:\Training\Brando\SearchEngines.All\SearchEngines.Interface\obj\Debug\SearchEngines.Interface.pdb
